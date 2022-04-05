@@ -1,0 +1,7 @@
+body {
+  /*Makes clearer text*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: #efefef !important;
+}
