@@ -1,7 +1,6 @@
 {
   "name": "flickr-image-search",
   "version": "0.1.0",
-  "homepage": ".",
   "engine": "12.13.1",
   "proxy": "http://localhost:3001",
   "private": true,
